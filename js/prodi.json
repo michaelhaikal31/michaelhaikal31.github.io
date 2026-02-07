@@ -1,0 +1,18 @@
+{
+  "prodi": [
+    {
+      "id": "ti",
+      "nama": "Teknik Informatika",
+      "fakultas_id": "ft",
+      "jenjang": "S1",
+      "akreditasi":"Baik",
+    },
+    {
+      "id": "pgsd",
+      "nama": "PGSD",
+      "fakultas_id": "fkip",
+      "jenjang": "S1",
+      "akreditasi":"Baik",
+    }
+  ]
+}
